@@ -3,3 +3,4 @@ pandas
 plotly
 openpyxl
 numpy
+pygraphviz==1.11
