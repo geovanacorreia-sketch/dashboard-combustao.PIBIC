@@ -1,6 +1,5 @@
 #dashboard
 import streamlit as st
-from graphviz import Digraph
 import pandas as pd
 from simulador_de_combustao import (COMBUSTIVEIS, GASES_PRODUTOS, executar_simulacao)
 st.set_page_config(
