@@ -241,7 +241,7 @@ with tab2:
     Os parâmetros de entrada são informados pelo usuário e os resultados
     apresentam a composição dos gases de chaminé e o balanço de massa e energia.
     """)
-    st.image("fluxograma.jpg",
+    st.image("Fluxograma.jpg",
         caption="Esquema simplificado do processo de combustão",
         use_container_width=True)
     st.divider()
